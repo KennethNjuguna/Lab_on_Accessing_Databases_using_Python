@@ -1,4 +1,4 @@
-# Lab_on_Accessing_Databases_using_Python
+# Lab on Accessing Databases using Python
 This is a repository on Databases and SQL for Data Science with Python.
 From this lab you should be able to do the following.
 
