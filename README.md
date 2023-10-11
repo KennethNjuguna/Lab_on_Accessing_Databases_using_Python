@@ -10,3 +10,8 @@ From this lab you should be able to do the following.
   <li>Retrieve the result set into a pandas dataframe.</li>
   <li>Close the database connection.</li>
 </ul>
+
+# Analyzing data with Python
+<p>Python to peform basic exploratory analysis using McDonalds nutrition facts.</p>
+
+
